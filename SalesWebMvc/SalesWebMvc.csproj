@@ -15,9 +15,6 @@
     <Compile Update="Models\ErrorViewModel.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
-    <Compile Update="Models\ViewModels\ErrorViewModel.cs">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Compile>
   </ItemGroup>
 
 </Project>
